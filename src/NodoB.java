@@ -5,6 +5,7 @@ public class NodoB {
     int numClaves;
     boolean esHoja;
 
+    
     public NodoB(int grado, boolean esHoja) {
         this.grado = grado;
         this.esHoja = esHoja;

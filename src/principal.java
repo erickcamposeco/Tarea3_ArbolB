@@ -4,7 +4,7 @@ public class Principal {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        System.out.print("Ingrese el grado del árbol B: ");
+        System.out.print("Ingrese el grado del Arbol B: ");
         int grado = entrada.nextInt();
         ArbolB arbol = new ArbolB(grado);
 
